@@ -1,4 +1,4 @@
-# ダッシュボードデザインレビュー
+# Dashboard Design Review Skill
 
 **ダッシュボードデザインレビュー** は、デジタル庁の「[ダッシュボードデザインの実践ガイドブック](https://www.digital.go.jp/resources/dashboard-guidebook)」とanemoの「[ダッシュボードUIデザインガイドライン](https://note.com/kw_design/n/n085a9349b242)」に基づいて、ダッシュボードのデザインを自動レビューする [Claude Code](https://claude.ai/code) スキルです。
 
