@@ -2,7 +2,7 @@
 
 [Claude Code](https://claude.ai/code) 向けのダッシュボードデザインレビュースキルです。
 
-デジタル庁の「ダッシュボードデザインの実践ガイドブック」とanemoのダッシュボードUIデザインガイドラインに基づいて、ダッシュボードのデザインを自動レビューします。
+デジタル庁の「[ダッシュボードデザインの実践ガイドブック](https://www.digital.go.jp/resources/dashboard-guidebook)」とanemoの「[ダッシュボードUIデザインガイドライン](https://note.com/kw_design/n/n085a9349b242)」に基づいて、ダッシュボードのデザインを自動レビューします。
 
 ---
 
