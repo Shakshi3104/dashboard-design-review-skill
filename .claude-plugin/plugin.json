@@ -1,0 +1,10 @@
+{
+  "name": "dashboard-design-review-skill",
+  "description": "A Claude Code skill that automatically reviews dashboard designs based on the Digital Agency's Dashboard Design Guidebook and anemo's Dashboard UI Design Guidelines.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Shakshi3104"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Shakshi3104/dashboard-design-review-skill"
+}

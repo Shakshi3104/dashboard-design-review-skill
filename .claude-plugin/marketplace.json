@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "dashboard-design-review-skill",
+  "description": "A Claude Code skill for reviewing dashboard designs based on Digital Agency and anemo guidelines",
+  "owner": {
+    "name": "Shakshi3104"
+  },
+  "plugins": [
+    {
+      "name": "dashboard-design-review-skill",
+      "description": "A Claude Code skill that automatically reviews dashboard designs based on the Digital Agency's Dashboard Design Guidebook and anemo's Dashboard UI Design Guidelines.",
+      "version": "1.1.0",
+      "license": "MIT",
+      "author": {
+        "name": "Shakshi3104"
+      },
+      "source": "./"
+    }
+  ]
+}
